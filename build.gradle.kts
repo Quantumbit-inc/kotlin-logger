@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.5.21"
 }
 
-group = "kr.co.qbit.lib"
+group = "kr.co.qtbit.lib"
 version = "1.0-SNAPSHOT"
 
 repositories {

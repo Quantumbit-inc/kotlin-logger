@@ -1,4 +1,4 @@
-package kr.co.qbit.lib.log
+package kr.co.qtbit.lib.log
 
 interface Log {
     val tag: String
